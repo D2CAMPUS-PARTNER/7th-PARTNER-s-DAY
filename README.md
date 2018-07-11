@@ -24,21 +24,39 @@ Q. 어떤 점이 바뀌었나요?
 - 발표해주신 분께는 소정의 선물을 드립니다. :)
 
 ### 모임 일정
-- 일시 : 7월 24일 (화) 오후 1시 30분 ~ 6시
+- 일시 : 7월 24일 (화) 오후 1시 30분 ~ 5시 30분
 - 장소 : 정자동 NAVER 그린팩토리 본사 2층 커넥트 홀
-- 세부일정 (업데이트 예정)  <br/>
->D2 소개 및 PARTNER 프로그램 관련 안내 <br/>
-NEW PARTNER 소개 <br/>
-PARTNER 10min Talk <br/>
-네이버 개발자 세션 (주제:학생으로서 기술성장을 위해 하면 도움이 되는 공부/활동) <br/>
-PARTNER 네트워킹 시간 <br/>
+- 세부일정 <br/>
+13:20 입장 시작<br/>
+13:30 ~ 14:00 D2 CAMPUS 안내 <br/>
+14:00 ~ 14:50 PARTNER 10min Talk + Lightning talk<br/>
+14:50 ~ 15:00 쉬는시간 <br/>
+15:00 ~ 16:00 네이버 개발자 세션 (주제:학생으로서 기술성장을 위해 하면 도움이 되는 공부/활동) <br/>
+16:00 ~ 17:30 PARTNER 네트워킹 시간 <br/>
+17:30 마무리
 
-### 참석동아리 리스트
-(업데이트 예정)
-
+### 참석동아리
 동아리명|스터디분야|활동페이지
 --------------|----------|----------
-
+모르고리즘	|	알고리즘	|	
+오소리	|	오픈소스 개발	|	https://github.com/HyOsori
+투빅스	|	빅데이터	|	http://www.datamarket.kr/xe/ 
+ALOHA	|	알고리즘	|	https://www.facebook.com/HYUALOHA
+ANSI	|	알고리즘	|	
+ChAOS	|	알고리즘	|	www.chaos.or.kr
+CLUG	|	오픈소스 및 리눅스	|	https://clug.kr/
+GoN	|	정보보안	|	
+Guardian	|	정보보안	|	
+ISTeam	|	모바일 앱, 웹 서비스 개발	|	
+KERT	|	정보보안	|	
+KUICS	|	정보보안	|	
+NEXTERS	|	웹/앱 서비스 개발	|	http://teamnexters.com/
+POSCAT	|	알고리즘 및 인공지능	|	
+SCCC	|	알고리즘	|	
+SSG	|	정보보안	|	https://www.facebook.com/sejongssg
+WhoIs	|	정보보안	|	https://blog.ajou-whois.org
+YAPP	|	웹/앱 서비스 개발	|	
+YBIGTA	|	빅데이터	|	
 
 
 ### 문의
