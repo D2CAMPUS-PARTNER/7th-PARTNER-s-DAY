@@ -52,6 +52,7 @@ KERT	|	정보보안	|
 KUICS	|	정보보안	|	
 NEXTERS	|	웹/앱 서비스 개발	|	http://teamnexters.com/
 POSCAT	|	알고리즘 및 인공지능	|	
+RUN | 알고리즘 | http://run.kaist.ac.kr/
 SCCC	|	알고리즘	|	
 SSG	|	정보보안	|	https://www.facebook.com/sejongssg
 WhoIs	|	정보보안	|	https://blog.ajou-whois.org
