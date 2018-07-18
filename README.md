@@ -40,7 +40,7 @@ Q. 어떤 점이 바뀌었나요?
 오소리	|	오픈소스 개발	|	https://github.com/HyOsori
 투빅스	|	빅데이터	|	http://www.datamarket.kr/xe/ 
 ALOHA	|	알고리즘	|	https://www.facebook.com/HYUALOHA
-ANSI	|	알고리즘	|	
+A.N.S.I	|	알고리즘	|	
 ChAOS	|	알고리즘	|	www.chaos.or.kr
 CLUG	|	오픈소스 및 리눅스	|	https://clug.kr/
 GoN	|	정보보안	|	
