@@ -47,7 +47,8 @@ GoN	|	정보보안	|
 Guardian	|	정보보안	|	
 ISTeam	|	모바일 앱, 웹 서비스 개발	|	
 KERT	|	정보보안	|	
-KUICS	|	정보보안	|	
+KUICS	|	정보보안	|
+KWEB | 웹 서비스 개발 | https://kweb.korea.ac.kr/
 NEXTERS	|	웹/앱 서비스 개발	|	http://teamnexters.com/
 POSCAT	|	알고리즘 및 인공지능	|	
 RUN | 알고리즘 | http://run.kaist.ac.kr/
